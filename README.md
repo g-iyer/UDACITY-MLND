@@ -1,5 +1,6 @@
 # UDACITY-MLND
-This repository contains my completed project submissions for the Udacity Machine Learning Nanodegree program
+This repository contains my completed project submissions for the Udacity Machine Learning Nanodegree program.
+(please browse the sub branches for individual projects)
 
 The key projects are:
 1. Boston Houssing prices (focused on Model Evaluation and Validation, Data preprocessing)
